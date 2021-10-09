@@ -11,6 +11,12 @@
 - make_db.py : 파일로 부터 db 구성
 - IMDbSearch.py: 검색 응용프로그램
 
+## ER Diagram
+![그림1](https://user-images.githubusercontent.com/46511190/136644887-c14d3733-a757-42b4-9583-af513013d13c.jpg)
+
+## ER to RDB
+![그림2](https://user-images.githubusercontent.com/46511190/136644897-132ca967-ecda-4888-aada-a06505486bbb.jpg)
+
 ## 주요 코드 설명
 
 ### 함수
